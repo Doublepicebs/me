@@ -1,0 +1,32 @@
+body {
+  font-family: 'Lato' !important;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+  font-family: 'dubai-medium';
+}
+
+p {
+  font-family: 'Amiri' !important;
+}
+
+p::selection {
+  background-color: #2979ff;
+  color: white;
+  border-radius: 6px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.blogImg {
+  width: 100%; 
+  height: 300px; 
+  object-fit: cover;
+}
+
+.strike {
+  text-decoration: line-through;
+  text-decoration-color: black;
+}
