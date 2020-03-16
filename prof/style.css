@@ -1,0 +1,12 @@
+.white {
+  color: white;
+  --title-color: white;
+}
+
+.featured-text {
+  transform: translateY(-140px) translateX(10px);
+}
+
+.featured-img {
+  object-fit: cover;
+}
